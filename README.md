@@ -295,6 +295,7 @@ Files
 
 
 * [bh1750.c](bh1750.c "local file") - source code
+* [Makefile](Makefile "local file") - for easier compiling
 * [bh1750-raspi](bh1750-raspi "local file") - binary for raspberry pi
 * [bh1750-raspi-static](bh1750-raspi-static "local file") - binary for raspberry pi, statically linked
 
